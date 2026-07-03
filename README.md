@@ -3,7 +3,7 @@
 **Nama** : Alif Firdaus Hidayatullah  
 **NIM** : 250401020166  
 **Kelas** : IF405  
-**Program Studi** : S1 Informatika
+**Program Studi** : S1 PJJ Informatika
 
 ---
 
