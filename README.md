@@ -33,7 +33,7 @@ Berikut merupakan daftar notebook praktikum yang telah saya kerjakan.
 | 8 | Ensemble Learning, Random Forest, dan Imbalanced Dataset | [📒 Pertemuan 8](https://github.com/freezetea/data-science-2026/blob/main/Pertemuan8_%5BAlif_Firdaus_Hidayatullah%5D_%5B250401020166%5D.ipynb) |
 | 9 | K-Means Clustering dan Principal Component Analysis (PCA) | [📒 Pertemuan 9](https://github.com/freezetea/data-science-2026/blob/main/Pertemuan9_%5BAlif_Firdaus_Hidayatullah%5D_%5B250401020166%5D.ipynb) |
 | 10 | Customer Churn | [📒 Pertemuan 10](https://github.com/freezetea/data-science-2026/blob/main/Pertemuan10_%5BAlif_Firdaus_Hidayatullah%5D_%5B250401020166%5D.ipynb) |
-
+| 11 | Segmentasi Pelanggan | [📒 Pertemuan 11](https://github.com/freezetea/data-science-2026/blob/main/Pertemuan11_%5BAlif_Firdaus_Hidayatullah%5D_%5B250401020166%5D.ipynb) |
 ---
 
 # Tools yang Digunakan
